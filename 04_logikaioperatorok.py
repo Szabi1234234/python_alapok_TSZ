@@ -54,3 +54,4 @@ Készíts egy programot, amely a felhasználó által megadott egész számról 
 (input("Adj meg egy egész szá"))
 
 
+
